@@ -1,0 +1,5 @@
+{
+  "workbook_original": "data&code/Z-score标准化.xlsx",
+  "workbook_sha256": "c766a6b3204e811bf874910593e33f5b647a356eba7e7e8a3581da17c5e4e433",
+  "scope": "N=10 full sample; fixed p=1, rG=2, rH=1, rf=1; structural bootstrap with fixed original-sample selected lambda"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "rank_selection": [
+    2,
+    1
+  ],
+  "algorithm1_refit_rank": [
+    2,
+    1
+  ],
+  "candidates": 289,
+  "penalties": [
+    6.22901264888438,
+    5.190843874070317
+  ],
+  "independent_cold_replay": true,
+  "maximum_npz_difference": 0.0,
+  "grid_byte_identical": true,
+  "output": "results/selected",
+  "fixed_penalty_multipliers": [
+    1.44,
+    1.2
+  ],
+  "current_runner_replay_match": true
+}

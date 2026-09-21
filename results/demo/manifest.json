@@ -1,0 +1,71 @@
+{
+  "p": 1,
+  "rG": 2,
+  "rH": 1,
+  "rf": 1,
+  "rank_selection": "fixed by design",
+  "seed": 314159,
+  "draws_requested": 20,
+  "random_orders": 256,
+  "lambda_grid": [
+    0.0,
+    0.01,
+    0.02,
+    0.04,
+    0.06,
+    0.08,
+    0.1,
+    0.12,
+    0.15,
+    0.2,
+    0.3
+  ],
+  "bootstrap": "structural Gaussian; sqrt(omega) common; fixed original-sample lambda",
+  "countries": [
+    "CHN",
+    "USA",
+    "DEU",
+    "NLD",
+    "JPN",
+    "FRA",
+    "ITA",
+    "GBR",
+    "KOR",
+    "HKG"
+  ],
+  "level_period": [
+    "2000-01",
+    "2024-06"
+  ],
+  "change_period": [
+    "2000-02",
+    "2024-06"
+  ],
+  "N": 10,
+  "changes": 293,
+  "responses": 292,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.18.1",
+  "source_hashes": {
+    "algorithm1/code/data_io.py": "54ecf9178b1c9688dc4e3686f7522adb8714797288e7d056731cd5ec0c92ee11",
+    "algorithm1/code/mean_model.py": "6fdfa68e57fe62d631128e6d92a49ece621e053381c27d3aa0ab5a5cefbc2365",
+    "algorithm1/code/rank_selection.py": "878e066dd2c3bfc33a697d5ea538c4abf15b83a2a58ca7e7aaad6adca869de15",
+    "algorithm1/run_algorithm1.py": "1c6275a6f063370991624ffa90ae02c7e1ed42a9b6ba760b2024bac80e1cb794",
+    "algorithm1/verify_algorithm1.py": "bfe36650c9fa130c51b923341b9c9d770af1812ec66d5485d7314355d5ab51f3",
+    "code/data_io.py": "54ecf9178b1c9688dc4e3686f7522adb8714797288e7d056731cd5ec0c92ee11",
+    "code/estimation.py": "9e989e0e15c0d4c62bc49daec70142e2a901218b507b815a34b4859242d8dd69",
+    "code/mean_model.py": "6fdfa68e57fe62d631128e6d92a49ece621e053381c27d3aa0ab5a5cefbc2365",
+    "code/structural.py": "c33333ddf39155584e19df76ae0bce513c46fb4fb77db76ff54054a632704be0",
+    "export_data.py": "cc30c14ca10c6ebc05b83b9661f229ecb8e73bb87987c88aee031fa7ab0648cf",
+    "plot.py": "a2d77a09abed5eee960401fca21b4de11688dc1be7f16074307ea38e59bef01b",
+    "run.py": "39e29961bea55ac13f0d198f386eb4d0931dd522715979f74b954e43924563f5",
+    "verify.py": "d121b4c15a575f829166107b6fb5d73ad3d0bd2f216ee5d8836a85260101c2f7"
+  },
+  "data_hashes": {
+    "data/metadata.json": "246ca3ee340c61aba7559da6962cc5840ec3c08d1890ce87e61e5d893b25a07b",
+    "data/reer_levels.csv": "07fb9ab4adb824b10de4fcfd4ad80324c5b56e68a81273b0d740218d54d410ad",
+    "data/source_workbook.xlsx": "c766a6b3204e811bf874910593e33f5b647a356eba7e7e8a3581da17c5e4e433",
+    "data/trade_levels.csv": "f795d275735c5a8c6ae4e7993b14003db001a8feaf563c035dbe30c13d8c5321"
+  }
+}

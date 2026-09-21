@@ -1,0 +1,30 @@
+{
+  "status": "complete",
+  "successful_draws": 20,
+  "failed_draws": [],
+  "strengths": [
+    1.2641058002817842,
+    0.6492612456230485,
+    0.4815933405219417
+  ],
+  "selected_lambda": 0.2,
+  "radius": 0.33012667400029233,
+  "selected_edges": 21,
+  "order": [
+    "FRA",
+    "ITA",
+    "DEU",
+    "NLD",
+    "GBR",
+    "KOR",
+    "HKG",
+    "CHN",
+    "JPN",
+    "USA"
+  ],
+  "point_norm_boundary": false,
+  "point_penalized_converged": true,
+  "mean_iterations": 10,
+  "seconds": 1.205570936203003,
+  "interval_use": "demonstration only; small draw count"
+}
