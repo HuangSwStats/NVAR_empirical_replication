@@ -1,0 +1,30 @@
+{
+  "workbook_sha256": "c766a6b3204e811bf874910593e33f5b647a356eba7e7e8a3581da17c5e4e433",
+  "sheets": [
+    "Trade转置N=10",
+    "REER转置N=10"
+  ],
+  "countries": [
+    "CHN",
+    "USA",
+    "DEU",
+    "NLD",
+    "JPN",
+    "FRA",
+    "ITA",
+    "GBR",
+    "KOR",
+    "HKG"
+  ],
+  "period": [
+    "2000-01",
+    "2024-06"
+  ],
+  "months": 294,
+  "input_status": "Already-standardized levels supplied in source workbook, not raw WTO/Wind downloads.",
+  "transformation": "Intersect months, first differences, country-specific month-of-year demeaning, full-sample centering and sample-standard-deviation scaling (ddof=1).",
+  "csv_sha256": {
+    "trade_levels.csv": "f795d275735c5a8c6ae4e7993b14003db001a8feaf563c035dbe30c13d8c5321",
+    "reer_levels.csv": "07fb9ab4adb824b10de4fcfd4ad80324c5b56e68a81273b0d740218d54d410ad"
+  }
+}

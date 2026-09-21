@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "reference": "results/reference_300",
+  "checks": {
+    "status": "PASS",
+    "draws_checked": 300,
+    "data_shape": [
+      10,
+      293
+    ],
+    "responses": 292,
+    "structural_covariance_identity": true,
+    "independent_recursive_generation_max_error": 4.440892098500626e-16,
+    "frobenius_gradient_max_error": 4.8499759763842576e-11,
+    "source_data_hashes_match": true
+  },
+  "portability": {
+    "copied_without_results": true,
+    "ran_from_external_working_directory": true,
+    "reestimated_draws": 300,
+    "npz_files_compared": 302,
+    "maximum_numeric_difference": 0.0,
+    "tables_byte_identical": true
+  },
+  "tested_python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]"
+}

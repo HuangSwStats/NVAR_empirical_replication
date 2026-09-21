@@ -1,0 +1,66 @@
+{
+  "status": "complete",
+  "selected_ranks": [
+    2,
+    1
+  ],
+  "penalized_fitted_ranks": [
+    2,
+    1
+  ],
+  "algorithm1_refit_ranks": [
+    2,
+    1
+  ],
+  "penalty_multipliers": [
+    1.44,
+    1.2
+  ],
+  "penalties": [
+    6.22901264888438,
+    5.190843874070317
+  ],
+  "threshold_scale": [
+    4.325703228391931,
+    4.325703228391931
+  ],
+  "penalty_candidates": 289,
+  "rank_iterations": 10,
+  "rank_final_change": 3.8385870234326217e-07,
+  "rank_objective": 681.0929118743414,
+  "mean_objective": 4.1694221285220925,
+  "mean_iterations": 10,
+  "mean_worst_block_increase": -1.1323386672756897e-11,
+  "companion_radius": 0.33012667400029233,
+  "countries": [
+    "CHN",
+    "USA",
+    "DEU",
+    "NLD",
+    "JPN",
+    "FRA",
+    "ITA",
+    "GBR",
+    "KOR",
+    "HKG"
+  ],
+  "changes": 293,
+  "responses": 292,
+  "period": [
+    "2000-02",
+    "2024-06"
+  ],
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "source_hashes": {
+    "code/data_io.py": "54ecf9178b1c9688dc4e3686f7522adb8714797288e7d056731cd5ec0c92ee11",
+    "code/mean_model.py": "6fdfa68e57fe62d631128e6d92a49ece621e053381c27d3aa0ab5a5cefbc2365",
+    "code/rank_selection.py": "878e066dd2c3bfc33a697d5ea538c4abf15b83a2a58ca7e7aaad6adca869de15",
+    "run_algorithm1.py": "1c6275a6f063370991624ffa90ae02c7e1ed42a9b6ba760b2024bac80e1cb794",
+    "verify_algorithm1.py": "bfe36650c9fa130c51b923341b9c9d770af1812ec66d5485d7314355d5ab51f3"
+  },
+  "data_hashes": {
+    "data/reer_levels.csv": "07fb9ab4adb824b10de4fcfd4ad80324c5b56e68a81273b0d740218d54d410ad",
+    "data/trade_levels.csv": "f795d275735c5a8c6ae4e7993b14003db001a8feaf563c035dbe30c13d8c5321"
+  }
+}

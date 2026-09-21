@@ -1,0 +1,182 @@
+[
+  {
+    "draw": 0,
+    "generation_seed": 414159,
+    "fit_seed": 514159,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 5,
+    "orders_retained": 2
+  },
+  {
+    "draw": 1,
+    "generation_seed": 414160,
+    "fit_seed": 514160,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 5,
+    "orders_retained": 3
+  },
+  {
+    "draw": 2,
+    "generation_seed": 414161,
+    "fit_seed": 514161,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 4,
+    "orders_retained": 3
+  },
+  {
+    "draw": 3,
+    "generation_seed": 414162,
+    "fit_seed": 514162,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 4,
+    "orders_retained": 3
+  },
+  {
+    "draw": 4,
+    "generation_seed": 414163,
+    "fit_seed": 514163,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 6,
+    "orders_retained": 3
+  },
+  {
+    "draw": 5,
+    "generation_seed": 414164,
+    "fit_seed": 514164,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 6,
+    "orders_retained": 3
+  },
+  {
+    "draw": 6,
+    "generation_seed": 414165,
+    "fit_seed": 514165,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 5,
+    "orders_retained": 3
+  },
+  {
+    "draw": 7,
+    "generation_seed": 414166,
+    "fit_seed": 514166,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 4,
+    "orders_retained": 3
+  },
+  {
+    "draw": 8,
+    "generation_seed": 414167,
+    "fit_seed": 514167,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 5,
+    "orders_retained": 3
+  },
+  {
+    "draw": 9,
+    "generation_seed": 414168,
+    "fit_seed": 514168,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 4,
+    "orders_retained": 3
+  },
+  {
+    "draw": 10,
+    "generation_seed": 414169,
+    "fit_seed": 514169,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 4,
+    "orders_retained": 3
+  },
+  {
+    "draw": 11,
+    "generation_seed": 414170,
+    "fit_seed": 514170,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 5,
+    "orders_retained": 3
+  },
+  {
+    "draw": 12,
+    "generation_seed": 414171,
+    "fit_seed": 514171,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 6,
+    "orders_retained": 3
+  },
+  {
+    "draw": 13,
+    "generation_seed": 414172,
+    "fit_seed": 514172,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 6,
+    "orders_retained": 3
+  },
+  {
+    "draw": 14,
+    "generation_seed": 414173,
+    "fit_seed": 514173,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 6,
+    "orders_retained": 3
+  },
+  {
+    "draw": 15,
+    "generation_seed": 414174,
+    "fit_seed": 514174,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 5,
+    "orders_retained": 3
+  },
+  {
+    "draw": 16,
+    "generation_seed": 414175,
+    "fit_seed": 514175,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 6,
+    "orders_retained": 3
+  },
+  {
+    "draw": 17,
+    "generation_seed": 414176,
+    "fit_seed": 514176,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 5,
+    "orders_retained": 3
+  },
+  {
+    "draw": 18,
+    "generation_seed": 414177,
+    "fit_seed": 514177,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 5,
+    "orders_retained": 3
+  },
+  {
+    "draw": 19,
+    "generation_seed": 414178,
+    "fit_seed": 514178,
+    "norm_boundary": false,
+    "penalized_converged": true,
+    "mean_iterations": 7,
+    "orders_retained": 3
+  }
+]
